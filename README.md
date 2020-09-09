@@ -10,6 +10,7 @@ Web interface for Clamav
 * https://github.com/benzino77/clamav-rest-api (not sure yet, might not be used)
 * https://github.com/fomantic/fomantic-ui
 * https://github.com/Jiab77/dark-fomantic-ui
+* https://github.com/Jiab77/simple-nodejs-webserver
 
 ## Inspirations
 
