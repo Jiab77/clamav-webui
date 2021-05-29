@@ -1,6 +1,6 @@
 # Clamav WebUI
 
-Web interface for Clamav
+Web interface for ClamAV
 
 ## Involved libraries
 
