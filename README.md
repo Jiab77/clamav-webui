@@ -1,4 +1,4 @@
-# Clamav WebUI
+# ClamAV WebUI
 
 Web interface for ClamAV
 
