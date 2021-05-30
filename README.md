@@ -18,6 +18,7 @@ Web interface for ClamAV
 * UI:
   * https://github.com/fomantic/fomantic-ui
   * https://github.com/Jiab77/dark-fomantic-ui
+  * https://github.com/Jiab77/fomantic-ui-template
 
 ## Inspirations
 
