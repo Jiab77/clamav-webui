@@ -1,0 +1,13 @@
+{
+    "debug": true,
+    "enabled": true,
+    "details": {
+        "description": "Dashboard for the ClamAV Web project.",
+        "display_name": "ClamAV WebUI",
+        "icon": "favicon.png",
+        "name": "dashboard",
+        "url": "https://github.com/Jiab77/clamav-webui",
+        "version": "0.0.0"
+    },
+    "routes": []
+}
